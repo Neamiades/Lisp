@@ -1,2 +1,1 @@
-# Lisp
-Task in courses
+FUCK IT!
